@@ -1,7 +1,7 @@
 # N-puzzle-Game
 ## AI Search Agent Task
 
-#### INSTRUCTIONS ####   
+#### INSTRUCTIONS
 This project creates an agent to solve the n-puzzle game (i.e. the 8-puzzle game generalized to an n × n array).   
 
 **1 Introduction**  
